@@ -6,7 +6,6 @@
 ---
 
 ## Table of Contents
-1. [Pre‑game: Fast setup & evidence](#0-pre-game-fast-setup--evidence)
 2. [Users, Groups, and Passwords](#1-users-groups-and-passwords-big-points)
 3. [Windows Update & Microsoft Defender](#2-windows-update--defender-mandatory)
 4. [Windows Firewall](#3-windows-firewall-all-profiles-on)
@@ -25,23 +24,6 @@
 17. [Common Scoring Items](#16-dont-miss-these-common-scoring-items)
 18. [Domain Controller Extras](#17-if-domain-controller-extra-checklist)
 19. [Appendix: Handy Checklists](#appendix-handy-checklists)
-
----
-
-## 0) Pre‑game: fast setup & evidence
-
-1) **Make a working folder** (notes & artifacts)  
-   - `C:\CP-Work\Logs`, `C:\CP-Work\Screenshots`  
-   - Open Notepad → “CP-Changes.txt” → log each change + timestamp.
-
-2) **Read the README** fully (users that must exist, allowed software, required services, roles, IP settings, etc.).
-
-3) **Create the “GodMode” folder** (quick access to tons of admin panels):  
-   Create a new folder and name it exactly:  
-   `GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}`. Then open it as needed.
-
-4) **Turn on file extensions & hidden items** (helps forensics)  
-   File Explorer → View → check **File name extensions** & **Hidden items**.
 
 ---
 
